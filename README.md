@@ -19,6 +19,12 @@ In this section, we explored creating functions within Matlab.
 
 ## Project 2
 
+### Section 3: Paper Chromatography App 
+
+<img width="642" alt="Screen Shot 2023-06-29 at 9 32 28 PM" src="https://github.com/ykhan-5/MATLAB-projects/assets/131565514/d0493437-1c0b-40b5-b31b-07cfbc24ebf2">
+
+Our objective in this section was to develop a user-friendly app that enables users to select chromatography strips and determine the presence of compounds in their experiments. By comparing the selected strip with a standard strip, the app helps identify the compounds present.
+
 ## Project 3
 
 ### Section 1: Encryption and Decryption App 
