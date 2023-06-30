@@ -29,9 +29,9 @@ In this section, our objective was to extract the RGB layers from a standard chr
 
 ### Section 3: Paper Chromatography App 
 
-<img width="642" alt="Screen Shot 2023-06-29 at 9 32 28 PM" src="https://github.com/ykhan-5/MATLAB-projects/assets/131565514/d0493437-1c0b-40b5-b31b-07cfbc24ebf2">
-
 Our objective in this section was to develop a user-friendly app that enables users to select chromatography strips and determine the presence of compounds in their experiments. By comparing the selected strip with a standard strip, the app helps identify the compounds present.
+
+<img width="642" alt="Screen Shot 2023-06-29 at 9 32 28 PM" src="https://github.com/ykhan-5/MATLAB-projects/assets/131565514/d0493437-1c0b-40b5-b31b-07cfbc24ebf2">
 
 ## Project 3
 
