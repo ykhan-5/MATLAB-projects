@@ -21,4 +21,3 @@ In this section, we explored creating functions within Matlab.
 
 ## Project 3
 
-## Project 4
