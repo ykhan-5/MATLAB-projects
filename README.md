@@ -19,6 +19,14 @@ In this section, we explored creating functions within Matlab.
 
 ## Project 2
 
+### Section 1: Piecewise Function
+
+In this section, we went over logical arrays and single for loops to evaluate and plot a piecewise function. 
+
+### Section2: Paper Chromatography Analysis 
+
+In this section, our objective was to extract the RGB layers from a standard chromatography strip. We accomplished this by creating a mask to isolate each spot on the strip. Subsequently, we calculated the retention factor for each species present on the strip. To facilitate user interaction, we prompted the user to specify the number of compounds they wanted to analyze. Based on the retention factors provided by the user, the compounds were identified and returned as output.
+
 ### Section 3: Paper Chromatography App 
 
 <img width="642" alt="Screen Shot 2023-06-29 at 9 32 28 PM" src="https://github.com/ykhan-5/MATLAB-projects/assets/131565514/d0493437-1c0b-40b5-b31b-07cfbc24ebf2">
