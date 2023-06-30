@@ -21,3 +21,18 @@ In this section, we explored creating functions within Matlab.
 
 ## Project 3
 
+### Section 1: Encryption and Decryption App 
+
+This MATLAB app allowed a user to shift an inputted string x amount of time in order to "decrypt" a message. It could also do the opposite, allowing a user with a key (the number of shifts) to decrypt the message. 
+
+### Section 2: Axial Stress, Strain, and Elongation of a Beam Due to a Point Force 
+
+In this section, we created an app to predict the behavior of a cantilever beam subject to an axial, tensile force. The user is able to specify the material, dimensions, and magnitude of the force. From these inputs, the app will display the beam's elongation, stress, and strain. 
+
+### Section 3: Axial Stress Due to a Distributed Axial Force 
+
+Unlike the previous section, we will now load the cantilever beam with an axially distributed load. The user is asked to provide the beam dimensions and total distributed force. 
+
+![IMG_7F25E108F3B4-1](https://github.com/ykhan-5/MATLAB-projects/assets/131565514/29bf4f5f-c9f2-4ed1-af7a-cc996a5fad62)
+
+
